@@ -6,7 +6,7 @@ Core Concepts
 
 Cluster: A group of machines (nodes) running Kubernetes.
 
-Node: A machine (virtual or physical) in the cluster; can be a Master Node or Worker Node.
+Nodes: A machine (virtual or physical) in the cluster; can be a Master Node or Worker Node.
 
 Pod: The smallest deployable unit, which encapsulates one or more containers.
 
